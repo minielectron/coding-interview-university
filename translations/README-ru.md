@@ -2,12 +2,54 @@
 
 Оригинальная версия: [Английский](../README.md) 
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Станьте спонсором</strong> и поддержите Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Особые благодарности:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Основанная в 2018, OSS Capital - первая и единственная венчурная платформа, ориентированная<br>исключительно для поддержки основателей стартапов на ранней стадии COSS (commercial open source - коммерческий открытый источник).</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Среды разработки, созданные для облачных сервисов</strong>
+                </p>
+            </div>
+            <div>
+		    <sup>
+			    Изначально интегрированный с GitLab, GitHub и Bitbucket, Gitpod автоматически, продолжительно и предварительно собирает
+			    среды разработки всех ветвей (branches). В результате члены команды могут мгновенно приступить к написанию кода с новыми
+			    средами разработки для каждой новой задачи - независимо от того, создаете ли вы новую функцию (feature), хотите исправить ошибку
+			    или работаете над проверкой кода (code review). 
+		    </sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## Для кого это?
 
 Это мой учебный план, рассчитанный на несколько месяцев для веб-разработчиков, не имеющих образования в Computer Science (CS)
 и планирующих работать инженерами-программистами (software engineer) в компании Google. 
 
-![Кодирование на доске - из телесериала канала HBO Кремниевая Долина](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Кодирование на доске - из телесериала канала HBO Кремниевая Долина](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 За основу учебного плана я взял список вопросов **Google's coaching notes** и значительно расширил его. Тут вы найдёте 
 много полезных вещей, которые необходимо знать. Дополнительные вопросы я добавил в конец списка: их могут задавать на 
@@ -193,17 +235,11 @@ Google не возьмёт тебя на работу.
 
 `git commit -m "Marked x" `
 
-`git rebase jwasham/master `
+`git rebase jwasham/main `
 
 `git push --force `
 
 [Подробнее о разметке на Github](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Получи гугловское настроение
-
-Напечатай знак "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" и не отводи глаз от желанной добычи.
-
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
 ## Получил ли я работу?
 
@@ -217,13 +253,8 @@ Google не возьмёт тебя на работу.
 
 Я ещё на пути к цели. Двигаемся вперёд:
  
-- **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
 - Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
 - LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
-
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## Не переживайте о том, что вы недостаточно умны
 - Успешные инженеры умные, но многие из них переживают, что недостаточно умны.
@@ -477,7 +508,7 @@ Google не возьмёт тебя на работу.
 Сделай свой собственный бесплатно:
 
 - [Репозиторий сайта Flashcards](https://github.com/jwasham/computer-science-flash-cards)
-- [Моя база данных с карточками](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db): Имейте в виду, я сделал больше чем требуется в Google, описав все начиная с assembler и заканчивая Python с машиным обучением и статистикой. 
+- [Моя база данных с карточками](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db): Имейте в виду, я сделал больше чем требуется в Google, описав все начиная с assembler и заканчивая Python с машиным обучением и статистикой. 
 
 **Заметка о карточках:** в первый раз вы сразу вспомните ответ, но не помечайте эту карточку как изученную. Нужно просмотреть 
 много раз карточку и ответить правильно прежде чем вы действительно ее запомните. Повторение позволяет мозгу надолго 
@@ -712,7 +743,7 @@ Google не возьмёт тебя на работу.
         - бинарный поиск с использованием рекурсии
 
 - ### Побитовые операции
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - ты должен знать сколько степеней двойки от (2^1 до 2^16 и 2^32)
+    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) - ты должен знать сколько степеней двойки от (2^1 до 2^16 и 2^32)
     - [ ] Даст отличное понимание манипуляций битами с помощью: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [ ] Хорошее введение:
@@ -969,7 +1000,7 @@ Google не возьмёт тебя на работу.
     - когда уместно использование рекурсии?
     - когда лучше использовать хвостовую рекурсию?
         - [ ] [Что такое хвостовая рекурсия и почему её использование нежелательно?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Хвостовая рекурсия (видео)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Хвостовая рекурсия (видео)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Объектно-ориентированное программирование
     - [ ] [Дополнительно: Серия уроков по UML 2.0 (видео)](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
@@ -1343,7 +1374,7 @@ Google не возьмёт тебя на работу.
 
 У вас нет доски дома? Не удивительно. Я немного неормальный и у меня есть большая доска дома. Но вместо доски можно использователь и планшет для рисования из магазина художественных товаров, и практиковаться сидя на диване. Это моя "диванная доска". На фото я положил ручку чтобы иметь вы имели представление о масштабе. Если вы будете пользоваться ручкой, постоянно будет возникать желание что-то исправить и решение захламляется достаточно быстро.
 
-![моя диванная доска](https://dng5l3qzreal6.cloudfront.net/2016/Oct/art_board_sm_2-1476233630368.jpg)
+![моя диванная доска](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
 
 Дополнительно:
 
@@ -1378,7 +1409,7 @@ Google не возьмёт тебя на работу.
 - [Codility](https://codility.com/programmers/)
 - [InterviewCake](https://www.interviewcake.com/)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/invite/icjf)
+- [InterviewBit](https://www.interviewbit.com)
 
 Возможно:
 - [Тестовые интервьюверы из больших компаний](http://www.gainlo.co/)
@@ -1945,7 +1976,7 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [ ] [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](https://www.youtube.com/playlist?list=PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
-- [ ] [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [ ] [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [ ] [Discrete Mathematics Part 1 by Sarada Herke (5 videos)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
 
@@ -1986,7 +2017,7 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [ ] [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [ ] [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [ ] [Introduction to Cryptography by Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [Course Website along with Slides and Problem Sets](http://www.crypto-textbook.com/)

@@ -45,6 +45,43 @@
 
 </details>
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## Worum es geht
 
 Das ist mein mehrmonatiger Lehrplan um sich vom Web Developer (Selbststudium, kein Abschluss in Informatik) zum Softwareingenieur bei einer großen Firma zu entwickeln.
@@ -225,7 +262,7 @@ Ich benutze GitHub's spezielle Version von Markdown, das beinhält Aufgabenliste
 
 `git commit -m "Marked x"`
 
-`git rebase jwasham/master`
+`git rebase jwasham/main`
 
 `git push --force`
 
@@ -433,8 +470,8 @@ Ich habe eine mobile-first Webseite gemacht, damit ich auf meinen Smartphone ode
 Erstell kostenlos deine eigenen Lernkarten:
 
 - [Lernkarten-Webseiten Repo](https://github.com/jwasham/computer-science-flash-cards)
-- [Meine Lernkarten Databank (alt - 1200 Karten)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db):
-- [Meine Lernkarten Databank (neu - 1800 Karten)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db):
+- [Meine Lernkarten Databank (alt - 1200 Karten)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db):
+- [Meine Lernkarten Databank (neu - 1800 Karten)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db):
 
 Achtung, ich habe es übertrieben und Lernkarten über alles erstellt, von Assembly und Python Trivia bis hin zu Machine Learning und Statistik. Das ist viel mehr als eigentlich notwendig.
 
@@ -693,7 +730,7 @@ Schreib Code auf einer Tafel oder auf Papier, aber nicht am Computer. Teste mit 
         - Binärsuche mittels Rekursion
 
 - ### Bitweise Operationen
-    - [ ] [Bits Spickzettel](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) - man sollte viele der Zweierpotenzen kennen (von 2^1 über 2^16 und 2^32)
+    - [ ] [Bits Spickzettel](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) - man sollte viele der Zweierpotenzen kennen (von 2^1 über 2^16 und 2^32)
     - [ ] Erhalte sehr gutes Verständnis Bits zu manipulieren mit: &, |, ^, ~, >>, <<
         - [ ] [Wörter](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [ ] Gute Einführung:
@@ -965,7 +1002,7 @@ Graphen können genutzt werden, um damit viele verschiedene Probleme in der Info
     - wann sollte man es benutzen
     - Wann ist Endrekursion gut?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Dynamische Programming
     - Wahrscheinlich wirst du im Vorstellungsgespräch nichts mit dynamischer Programmierung zu tun haben, aber es ist wert zu erkennen, wann ein Problem für dynamische Programmierung geeignet ist.
@@ -1308,7 +1345,7 @@ Graphen können genutzt werden, um damit viele verschiedene Probleme in der Info
 - [ ] Übe den Prozess des Systementwurfs: Hier sind ein paar Ideen, die man auf Papier durchspielen kann, jede mit einer Dokumentation wie es in der echten Welt umgesetzt wurde:
     - Review: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
     - [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-    - [Spickzettel](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/system-design.pdf)
+    - [Spickzettel](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/system-design.pdf)
     - Ablauf:
         1. Verstehe das Problem und den Umfang:
             - definiere den Anwendungsfall, was dem Interviewer helfen wird
@@ -1432,7 +1469,7 @@ Wettbewerbsseiten:
 - [Codility](https://codility.com/programmers/)
 - [InterviewCake](https://www.interviewcake.com/)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/invite/icjf)
+- [InterviewBit](https://www.interviewbit.com)
 - [Sphere Online Judge (spoj)](http://www.spoj.com/)
 - [Codechef](https://www.codechef.com/)
 
@@ -1994,7 +2031,7 @@ Zurücklehnen und genießen. "Netflix and skill" :P
 
 - [ ] [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
 
-- [ ] [Discrete Mathematics von Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [ ] [Discrete Mathematics von Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [ ] [Discrete Mathematics Part 1 von Sarada Herke (5 videos)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
 
@@ -2035,7 +2072,7 @@ Zurücklehnen und genießen. "Netflix and skill" :P
 
 - [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [ ] [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [ ] [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [ ] [Introduction to Cryptography von Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [KurswWebseite mit Folien und Problemstellungen](http://www.crypto-textbook.com/)

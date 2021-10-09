@@ -47,6 +47,43 @@
 
 </details>
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ---
 
 ## តារាងមាតិកា
@@ -174,7 +211,7 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
 
 `git commit -m "Marked x"`
 
-`git rebase jwasham/master`
+`git rebase jwasham/main`
 
 `git push --force`
 
@@ -369,8 +406,8 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
 អ្នកអាចបង្កេីតដោយឥតគិតថ្លៃ៖
 
 - [បណ្តាញឃ្លាំងផ្ទុកកាតឡើងវិញ](https://github.com/jwasham/computer-science-flash-cards)
-- [មូលដ្ឋានទិន្នន័យកាតរបស់ខ្ញុំ (កាតចាស់ - ១២០០ កាត)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db)៖
-- [ប្រព័ន្ធទិន្នន័យកាតរបស់ខ្ញុំ (កាតថ្មី - ១៨០០)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db)៖
+- [មូលដ្ឋានទិន្នន័យកាតរបស់ខ្ញុំ (កាតចាស់ - ១២០០ កាត)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db)៖
+- [ប្រព័ន្ធទិន្នន័យកាតរបស់ខ្ញុំ (កាតថ្មី - ១៨០០)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db)៖
 
 សូមចងចាំថាខ្ញុំបានឡើងលើក្តារហើយមានកាតគ្របដណ្តប់លើអ្វីៗទាំងអស់ចាប់ពីភាសាការជួបប្រជុំគ្នា និង សំនួរទាក់ទងនឹង Python រហូតដល់ការរៀនម៉ាស៊ីននិងស្ថិតិ។ វាជាវិធីច្រើនពេកសម្រាប់អ្វីដែលត្រូវការ។
 
@@ -639,7 +676,7 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
         - Binary search ដោយប្រើការហៅខ្លួនឯង
 
 - ### ប្រតិបតិ្តការ Bitwise
-    - [ ] [សន្លឹកជំនួយ Bits](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) 
+    - [ ] [សន្លឹកជំនួយ Bits](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) 
         - អ្នកគួរតែស្គាល់ អំណាច ២ ពី (២ ^ ១ ដល់ ២ ^ ១៦ និង ២ ^ ៣២)
     - [ ] ទទួលបានការយល់ដឹងដ៏ល្អអំពីការរៀបចំBitsជាមួយ៖ &, |, ^, ~, >>, <<
         - [ ] [ពាក្យ](https://en.wikipedia.org/wiki/Word_ (computer_architecture))
@@ -901,7 +938,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
     - នៅពេលដែលសមរម្យដើម្បីប្រើវា
     - តេី tail recursion ប្រសើរជាងអត់?
         - [ ] [អ្វីជា Tail Recursion និង ហេតុអ្វីបានជាវាអាក្រក់?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (វីដេអូ)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (វីដេអូ)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Dynamic Programming
     - អ្នកប្រហែលជាមិនឃើញមានបញ្ហានៃការសរសេរកម្មវិធី dynamic programming នៅក្នុងបទសម្ភាសន៍របស់អ្នកទេ ប៉ុន្តែវាសមនឹងទទួលបានការទទួលស្គាល់នូវបញ្ហាមួយក្នុងនាមជាបេក្ខជនសម្រាប់ការសរសេរកម្មវិធី dynamic programming។
@@ -1213,7 +1250,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
 - [ ] ការអនុវត្តដំណើរការរចនាប្រព័ន្ធ៖ នេះគឺជាគំនិតមួយចំនួនដើម្បីព្យាយាមធ្វើការលើក្រដាសនីមួយៗដោយមានឯកសារមួយចំនួនស្តីពីវិធីដែលត្រូវបានដោះស្រាយនៅក្នុងពិភពពិត៖ 
     - ពិនិត្យឡើងវិញ: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
     - [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-    - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/system-design.pdf)
+    - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/system-design.pdf)
     - flow:
         1. ស្វែងយល់ពីបញ្ហានិងវិសាលភាព
             - កំណត់ករណីប្រើប្រាស់ដោយមានជំនួយពីអ្នកសម្ភាសន៍
@@ -1323,7 +1360,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
 - [TopCoder](https://www.topcoder.com/)
 - [InterviewCake](https://www.interviewcake.com/)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/invite/icjf)
+- [InterviewBit](https://www.interviewbit.com)
 - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
 - [Code Exercises](https://code-exercises.com)
 
@@ -1896,7 +1933,7 @@ Mock Interviews:
 
 - [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
 
-- [Discrete Mathematics ដោយ Shai Simonson (19 វីដេអូ)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [Discrete Mathematics ដោយ Shai Simonson (19 វីដេអូ)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [Discrete Mathematics Part 1 by Sarada Herke (5 វីដេអូ)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
 
@@ -1937,7 +1974,7 @@ Mock Interviews:
 
 - [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [Stanford: Programming Paradigms (27 វីដេអូ)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [Stanford: Programming Paradigms (27 វីដេអូ)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [Course Website along with Slides and Problem Sets](http://www.crypto-textbook.com/)
